@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0588/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說花聚陀羅尼呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1358.xml
+    old_id: T21n1358
+hash: sha256:2b606a81499075260a6ea271b69994791cd79234f16a8babdb203e494aa18a34
