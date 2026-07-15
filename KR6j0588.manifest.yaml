@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0588/v1
 canonical_location: https://kanripo.org/bkk/KR6j0588/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說花聚陀羅尼呪經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0588_000.yaml, hash: 'sha256:2b606a81499075260a6ea271b69994791cd79234f16a8babdb203e494aa18a34'}
-  - {seq: 1, filename: KR6j0588_001.yaml, hash: 'sha256:d9ae29308ff1a81759cdb608bbd6486fdb76ff2f6d5d7983e415c3fcff696982'}
+  - {seq: 1, filename: KR6j0588_001.yaml, hash: 'sha256:59145200afc0beabbf37bd852661cb4703864ba0b5227ea3af3331f85023e854'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0588_000.markers.yaml, hash: 'sha256:182bdadd63755ccafade0b5e915839266ac1e123f7f325346943f0b2628d6c74'}
-  - {seq: 1, role: markers, filename: assets/KR6j0588_001.markers.yaml, hash: 'sha256:15a83a544a3a78e8f5ad29666642e07f3ec80bbfa5fb370d94a9b9a442e41453'}
+  - {seq: 1, role: markers, filename: assets/KR6j0588_001.markers.yaml, hash: 'sha256:4d37412ca425abace608f71d35a9fa9dd2b1a474e780e0052f4b57836825b5e6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說花聚陀羅尼呪經
   type: juan
   level: 1
-hash: sha256:63940fa23fc58c2ce6caf419c29dc71333addb20b634d9f32f89cca6d0878c2d
+hash: sha256:261b6c493dcccdefeb2c1fba3c615ed439f594c428e8603ad6562fe3ca6a07a7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
